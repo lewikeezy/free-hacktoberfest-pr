@@ -808,7 +808,7 @@
 **Location**: New York, NY
 
 #### --- 62 ---
-**Name**: [lewis Tanguhwar](https://github.com/lewikeezy)
+**Name**: [Lewis Tanguhwar](https://github.com/lewikeezy)
 
 **Programming Language**: [Python]
 

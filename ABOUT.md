@@ -39,6 +39,8 @@
 
 **Location**: Brazil, Irará
 
+
+
 #### --- 3 ---
 **Name**: [Sruthi Vinukonda](https://github.com/sruthiv)
 
@@ -804,3 +806,16 @@
 **Interests**: Food, Movies, Tv
 
 **Location**: New York, NY
+
+#### --- 62 ---
+**Name**: [lewis Tanguhwar](https://github.com/lewikeezy)
+
+**Programming Language**: [Python]
+
+**Contributed to OSS**: [yes]
+
+**How long have you been programming**: [18 months]
+
+**Interests**: [reading novels, learning new techie related stuffs]
+
+**Location**: [Nigeria, Makurdi]
